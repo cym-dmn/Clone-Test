@@ -1,7 +1,5 @@
 #include<stdio.h>
 {
-    printf("hello world");
-    printf("this is a trying");
-    printf("last trying is successful, this is a new tring");
+    printf("this is a new trying");
     return 0;
 }
