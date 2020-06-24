@@ -1,1 +1,4 @@
-1234567
+#include<stdio.h>
+{
+    return 0;
+}
