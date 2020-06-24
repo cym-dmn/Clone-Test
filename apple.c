@@ -1,1 +1,5 @@
-1234567
+#include<stdio.h>
+{
+    printf("hello world");
+    return 0;
+}
